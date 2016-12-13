@@ -16,7 +16,7 @@ nav ul{
   max-width: 960px;
   min-width: 600px;
   position: relative;
-  align: center;
+  text-align: center;
 }
 
 #name{
